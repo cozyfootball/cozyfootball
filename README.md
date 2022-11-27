@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [123](123213)
 
-- 📫 How to reach me **1h8dzz@gmail.com**
+- 📫 Почта: **1h8dzz@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
