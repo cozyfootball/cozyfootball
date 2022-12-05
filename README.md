@@ -33,5 +33,5 @@
 
 - :on: [Телеграм](https://t.me/oma890)
 - 📫[Почта](mailto:1h8dzz@gmail.com)
-- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozyfootball&label=Profile%20views&color=0e75b6&style=flat" alt="cozyfootball" /> </p>
