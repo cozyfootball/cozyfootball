@@ -13,7 +13,7 @@
 
 | Название   |     Описание    |  Статус |
 |----------|:-------------:|------:|
-| [Телеграм](https://github.com/cozyfootball/cozyfootball/job_insure.pdf)|  left-aligned | $1600 |
+| [Телеграм](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)|  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 <h4 align="left">Контакты</h43>
