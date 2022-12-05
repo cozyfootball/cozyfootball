@@ -1,4 +1,4 @@
-[image](https://github.com/cozyfootball/cozyfootball/blob/main/white.png)
+[image](https://github.com/cozyfootball/cozyfootball/blob/main/white.png| width=100)
 ![alt text](https://github.com/cozyfootball/cozyfootball/blob/main/white.png)
 <h1 align="left">:pushpin:Hello, my friend, я - Яша:pushpin:</h1>
 <h4 align="left">10+ лет опыт в страховании: андеррайтинг, аналитика, разработка продуктов.</h4>
