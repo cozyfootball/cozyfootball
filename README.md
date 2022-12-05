@@ -13,6 +13,5 @@
 - 
 <h4 align="left">Контакты</h43>
 
-- 📫 Почта: **1h8dzz@gmail.com**
 - :on: [Телеграм](https://t.me/oma890)
-- 📫[Почта](1h8dzz@gmail.com)
+- 📫[Почта](mailto:1h8dzz@gmail.com)
