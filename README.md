@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/cozyfootball/cozyfootball/blob/main/white.png =250x250)
+<img src="https://github.com/cozyfootball/cozyfootball/blob/main/white.png" width="48">
 <h1 align="left">:pushpin:Hello, my friend, я - Яша:pushpin:</h1>
 <h4 align="left">10+ лет опыт в страховании: андеррайтинг, аналитика, разработка продуктов.</h4>
 <h4 align="left">5+ лет Product Owner Лиги уютного футбола</h3><a href="https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cozyfootball" height="30" width="40" /></a>
