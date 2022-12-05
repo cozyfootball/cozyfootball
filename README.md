@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on [123](123213)
 
 - 📫 Почта: **1h8dzz@gmail.com**
+- Мой Телеграм: [ТГ](https://t.me/@whocares)
 
 
 <h3 align="left">Languages and Tools:</h3>
