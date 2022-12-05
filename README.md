@@ -16,9 +16,9 @@
 
 | Название   |     Описание    |  Статус |
 |----------|:-------------:|------:|
-| [Безработица.нет](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Завершён |
-|  [Продуктовое исследование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |    Исследование потребностей и ценностей сотрудников банков и их клиентов  |   Завершён|
-|  [Методика по загородным домам](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Уникальная методика по определению типа конструктивных элементов загородных строений. |   Завершён |
+| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Завершён |
+|  [Исследование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |    Исследование потребностей и ценностей сотрудников банков и их клиентов  |   Завершён|
+|  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Уникальная методика по определению типа конструктивных элементов загородных строений. |   Завершён |
 
 <h4 align="left">Телеграм-боты</h4>
 
