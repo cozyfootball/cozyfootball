@@ -13,7 +13,7 @@
 
 | Название   |     Описание    |  Статус |
 |----------|:-------------:|------:|
-| [Телеграм](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)|  left-aligned | $1600 |
+| [Безработица.нет](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)|  Современный клиентоориентированный страховой продукт stand_alone по страхованию рисков потери работы. Уникальная концепция подразумевающая не только рисковую защиту, но и комплексное сервисную поддержку| Завершён |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 <h4 align="left">Контакты</h43>
