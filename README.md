@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/cozyfootball/cozyfootball/blob/main/white.png">
+  <img width="120" height="120" src="https://github.com/cozyfootball/cozyfootball/blob/main/white.png">
 </p>
 <h1 align="center">:pushpin:Hello, my friend, я - Яша:pushpin:</h1>
 <h4 align="left">10+ лет опыт в страховании: андеррайтинг, аналитика, разработка продуктов.</h4>
