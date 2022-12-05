@@ -13,9 +13,9 @@
 
 | Название   |     Описание    |  Статус |
 |----------|:-------------:|------:|
-| [Безработица.нет](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)|  Современный клиентоориентированный страховой продукт stand_alone по страхованию рисков потери работы. Уникальная концепция подразумевающая не только рисковую защиту, но и комплексное сервисную поддержку| Завершён |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| [Безработица.нет](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Завершён |
+|  [Продуктовое исследование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |    Исследование потребностей и ценностей сотрудников банков и их клиентов  |   Завершён|
+|  [Методика по загородным домам](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Уникальная методика по определению типа конструктивных элементов загородных строений. |   Завершён |
 <h4 align="left">Контакты</h43>
 
 - :on: [Телеграм](https://t.me/oma890)
