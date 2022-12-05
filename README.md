@@ -11,8 +11,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Мои проекты</h3>
-<h4 align="left">Страхование</h4>
+<h3 align="center">Мои проекты</h3>
+<h4 align="center">Страхование</h4>
 
 | Название   |     Описание    |  Статус |
 |----------|:-------------:|------:|
@@ -20,7 +20,7 @@
 |  [Исследование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |    Исследование потребностей и ценностей сотрудников банков и их клиентов  |   Завершён|
 |  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Уникальная методика по определению типа конструктивных элементов загородных строений. |   Завершён |
 
-<h4 align="left">Телеграм-боты</h4>
+<h4 align="center">Телеграм-боты</h4>
 
 | Название   |     Описание    |  Статус |
 |----------|:-------------:|------:|
@@ -29,7 +29,8 @@
 |  [Староста](https://t.me/ds_55) | Бот-староста для общего чата курса ЯП. Реализованный функционал: база данных, подсчет и увелечение репутации за спасибо, вывод лучших юзеров по репутации, вывод общего среза по чату (средний возраст, пол), индивидуальные профили для каждого юзера. По плану: дополнительные срезы по увлечениям/предпочтениям, библиотека полезной инфы по инструментам DS [Код](https://github.com/cozyfootball/cozyfamily/blob/main/ds_55.py) |  В работе |
 |  [Домашний Валентин](https://t.me/BykhalikaBot) | Бот-семейный помощник. Фиксируют список покупок и задач по дому между мужем и женой. На ближайшее время запланирован полный рефакторинг и обогащение функционала|  В работе |
 |  Стоматология | Бот-админ стоматологической клиники. Личный кабинет, история посещения, рекомендации, снимки, финансовая информация, напоминания для клиентов. Цель: увеличение уровня клиентского сервиса, снижения нагрузки на администраторов.|  В проекте |
-<h4 align="left">Data Analyst</h4>
+
+<h4 align="center">Data Analyst</h4>
 
 | Название   |     Описание    |  Статус |
 |----------|:-------------:|------:|
