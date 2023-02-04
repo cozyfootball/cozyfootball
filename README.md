@@ -7,9 +7,13 @@
 </p>
 <h4 align="left">2 года занимаюсь разработкой телеграм-ботов: идея, структура, юзабилити, код.</h4>
 <h4 align="left">Учусь на DataScience в ЯП. Текущий прогресс: 58%</h4>
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Контакты</h4>
+
+- :on: [Телеграм](https://t.me/oma890)
+- 📫[Почта](mailto:1h8dzz@gmail.com)
 <p align="left">
 <a href="www.linkedin.com/in/yasha-bykhal-cozy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yakov-bykhal-0aa44a206/" height="30" width="40" /></a>
+  
 <a href="https://www.youtube.com/c/cozyfootball" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cozyfootball" height="30" width="40" /></a>
 </p>
 <h3 align="left">Знания и навыки:</h3>
@@ -43,10 +47,6 @@
 |  Недвижилость |  Исследование особенностей и зависимостей влияющих на стоимость проладажи объекта недвижимости|   Завершён(очередь на размещение)|
 |  [Анализ рынка видеогр](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Планирование кампании по продажи видеоигр на следующий год. Определение прибыльных сегментов, проверка гипотез| Завершён|
 
-<h4 align="left">Контакты</h4>
-
-- :on: [Телеграм](https://t.me/oma890)
-- 📫[Почта](mailto:1h8dzz@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozyfootball&label=Profile%20views&color=0e75b6&style=flat" alt="cozyfootball" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozyfootball&show_icons=true&locale=en&layout=compact" alt="cozyfootball" /></p>
