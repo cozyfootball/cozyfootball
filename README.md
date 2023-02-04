@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello World! Я - Яша:neckbeard:</h1>
 <h4 align="left">10+ лет опыт в страховании: андеррайтинг, аналитика, разработка продуктов.</h4>
-<h4 align="left">5+ лет Product Owner Лиги уютного футбола</h3><a href="https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cozyfootball" height="30" width="40" /></a>
+<h4 align="left">5+ лет Product Owner Лиги уютного футбола</h3><a href="https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cozyfootball" height="100" width="100" /></a>
 </p>
 <h4 align="left">2 года занимаюсь разработкой телеграм-ботов: идея, структура, юзабилити, код.</h4>
 <h4 align="left">Учусь на DataScience в ЯП. Текущий прогресс: 58%</h4>
