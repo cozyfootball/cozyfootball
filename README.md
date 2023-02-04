@@ -12,8 +12,7 @@
 
 - :on: [Телеграм](https://t.me/oma890)
 - 📫[Почта](mailto:1h8dzz@gmail.com)
-- 
-<p align="left">
+- <p align="left">
 <a href="www.linkedin.com/in/yasha-bykhal-cozy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yakov-bykhal-0aa44a206/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Рабочие инструменты:</h3>
