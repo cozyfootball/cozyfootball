@@ -2,7 +2,7 @@
   <img width="300" height="300" src="https://github.com/cozyfootball/cozyfootball/blob/main/catsadd.jpg">
 </p>
 <h2 align="center">Hello World! Я - Яша:bulb:</h1>
-<h4 align="left">10+ лет опыт в страховании: андеррайтинг, аналитика, разработка продуктов.</h4>
+<h4 align="left">:computer:Специализация: Data Science, Data Analyst, Telegram Bot development.</h4>
 <h4 align="left">5+ лет Product Owner Лиги уютного футбола</h3><a href="https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cozyfootball" height="40" width="30" /></a>
 </p>
 <h4 align="left">2 года занимаюсь разработкой телеграм-ботов: идея, структура, юзабилити, код.</h4>
