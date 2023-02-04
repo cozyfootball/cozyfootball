@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="220" height="220" src="https://github.com/cozyfootball/cozyfootball/blob/main/catsad.jpg">
+  <img width="220" height="220" src="https://github.com/cozyfootball/cozyfootball/blob/main/catsadd.jpg">
 </p>
 <h1 align="center">Hello World! Я - Яша:neckbeard:</h1>
 <h4 align="left">10+ лет опыт в страховании: андеррайтинг, аналитика, разработка продуктов.</h4>
