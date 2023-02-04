@@ -9,8 +9,10 @@
 <h4 align="left">Учусь на DataScience в ЯП. Текущий прогресс: 58%</h4>
 
 <h4 align="left">Контакты</h4>
+
 - :on: [Телеграм](https://t.me/oma890)
 - 📫[Почта](mailto:1h8dzz@gmail.com)
+- 
 <p align="left">
 <a href="www.linkedin.com/in/yasha-bykhal-cozy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yakov-bykhal-0aa44a206/" height="30" width="40" /></a>
 </p>
@@ -20,6 +22,7 @@
 
 <h3 align="center">Мои проекты</h3>
 <h4 align="center">Страхование</h4>
+
 | Название   |     Описание    |  Статус |
 |----------|:-------------:|------:|
 | [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Завершён |
