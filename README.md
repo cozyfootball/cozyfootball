@@ -26,7 +26,7 @@
 
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
-| [Заемщики](https://github.com/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| EDA + ML|
+| [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| EDA + ML|
 |  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Анализ рынка видеоигр за 20 лет| EDA|
 |  Недвижимость |  Исследование особенностей и зависимостей влияющих на стоимость проладажи объекта недвижимости|   EDA|
 | [Вадимка](https://t.me/stopalfa_bot)| Бот-инструктор по возврату страховой преми [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| TGdev|
