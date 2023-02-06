@@ -32,11 +32,11 @@
 |  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Анализ рынка видеоигр за 20 лет| EDA|
 |  [Телеком](https://github.com/cozyfootball/cozyfootball/blob/main/telekom_ml.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML|
 |  Недвижимость |  Исследование особенностей и зависимостей влияющих на стоимость продажи объекта недвижимости|   EDA|
-| [Вадимка](https://t.me/stopalfa_bot)| Бот-инструктор по возврату страховой преми [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| TGdev|
+| [Вадимка](https://t.me/stopalfa_bot)| Бот-инструктор по возврату страховой премии [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| TGdev|
 |  [Cozyfootball](https://t.me/CozyFutbot) |  Уникальный телеграм-бот для администрирования футбольных групп, фиксирование статистики, формирования индивидуального рейтинга, анализа игры в разрезе различных показателей  |  TGdev|
 |  [Староста](https://t.me/ds_55) | Бот-староста для общего чата курса ЯП. Реализованный функционал: база данных, подсчет и увелечение репутации за спасибо, вывод лучших юзеров по репутации, вывод общего среза по чату (средний возраст, пол), индивидуальные профили для каждого юзера. По плану: дополнительные срезы по увлечениям/предпочтениям, библиотека полезной инфы по инструментам DS [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  TGdev |
 | [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Страховая разработка |
-|  [Исследование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |    Исследование потребностей и ценностей сотрудников банков и их клиентов  |   Страховое исследование|
+|  [Исследование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |    Исследование ценностей сотрудников банков и их клиентов  |   Страховое исследование|
 |  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Уникальная методика по определению типа конструктивных элементов загородных строений. |   Страховая методология |
 
 
