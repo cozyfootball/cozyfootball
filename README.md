@@ -38,6 +38,7 @@
 | [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Страховая разработка |
 |  [Исследование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |    Исследование ценностей сотрудников и клиентов  банка  |   Страховое исследование|
 |  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Уникальная методика по определению типа конструктивных элементов загородных строений. |   Страховая методология |
+|  [Калькулятор](https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Проект страхового калькулятора: от этапа расчёта страховой стоимости до этапа оформления печатных форм|   Страховая автоматизация |
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozyfootball&label=Profile%20views&color=0e75b6&style=flat" alt="cozyfootball" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozyfootball&show_icons=true&locale=en&layout=compact" alt="cozyfootball" /></p>
