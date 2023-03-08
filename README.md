@@ -8,12 +8,12 @@
 <h3 align="left">:blue_heart: Pet-проекты </h4>
 
 - [Лига уютного футбола](https://https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига
-- [CozyFamily](https://t.me/oma890) - мастерская по разработке телеграм-ботов
+- [CozyFamily](https://t.me/cozyfamily) - мастерская по разработке телеграм-ботов
 
   
 <h4 align="left">Контакты</h4>
 
-- :on: [Телеграм](https://t.me/cozyfamily)
+- :on: [Телеграм](https://t.me/oma890)
 - 📫[Почта](mailto:1h8dzz@gmail.com)
 <p align="left">
 <a href="www.linkedin.com/in/yasha-bykhal-cozy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yakov-bykhal-0aa44a206/" height="30" width="40" /></a>
