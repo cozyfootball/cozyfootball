@@ -7,7 +7,7 @@
 
 <h3 align="left">:blue_heart: Pet-проекты </h4>
 
-- [Лига уютного футбола](https://https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига
+- [Лига уютного футбола](https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига
 - [CozyFamily](https://t.me/cozyfamily) - мастерская по разработке телеграм-ботов
 
   
