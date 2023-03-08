@@ -13,7 +13,7 @@
   
 <h4 align="left">Контакты</h4>
 
-- :on: [Телеграм](https://t.me/oma890)
+- :on: [Телеграм](https://t.me/cozyfamily)
 - 📫[Почта](mailto:1h8dzz@gmail.com)
 <p align="left">
 <a href="www.linkedin.com/in/yasha-bykhal-cozy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yakov-bykhal-0aa44a206/" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 |  [Телеком](https://github.com/cozyfootball/cozyfootball/blob/main/telekom_ml.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML|
 |  [Недвижимость](https://github.com/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Исследование факторов влияющих на стоимость квартир|   EDA|
 | [Вадимка](https://t.me/stopalfa_bot)| Бот-инструктор по возврату страховой премии [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| TGdev|
-|  [Cozyfootball](https://t.me/CozyFutbot) |  Уникальный бот для администрирования фспортивных community |  TGdev|
+|  [Cozyfootball](https://t.me/CozyFutbot) |  Уникальный бот для администрирования футбольных групп |  TGdev|
 |  [Староста](https://t.me/ds_55) | Бот-староста 55 потока курса Яндекс Практикум "Специалист по Data Science" [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  TGdev |
 | [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Страховая разработка |
 |  [Исследование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |    Исследование ценностей сотрудников и клиентов  банка  |   Страховое исследование|
