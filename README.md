@@ -29,9 +29,10 @@
 |:----------:|:-------------:|:------:|
 | [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| EDA + ML|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_away.ipynb)| Отток клиентов из банка| ML|
-|  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Анализ рынка видеоигр за 20 лет| EDA|
-|  [Телеком](https://github.com/cozyfootball/cozyfootball/blob/main/telekom_ml.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML|
+|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Модель рекомендации перспективных месторождений| ML|
+|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML|
 |  [Недвижимость](https://github.com/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Исследование факторов влияющих на стоимость квартир|   EDA|
+|  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Анализ рынка видеоигр за 20 лет| EDA|
 | [Вадимка](https://t.me/stopalfa_bot)| Бот-инструктор по возврату страховой премии [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| TGdev|
 |  [Cozyfootball](https://t.me/CozyFutbot) |  Уникальный бот для администрирования футбольных групп |  TGdev|
 |  [Староста](https://t.me/ds_55) | Бот-староста 55 потока курса Яндекс Практикум "Специалист по Data Science" [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  TGdev |
