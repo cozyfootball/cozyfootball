@@ -2,14 +2,13 @@
   <img width="300" height="300" src="https://github.com/cozyfootball/cozyfootball/blob/main/catsadd.jpg">
 </p>
 <h2 align="center">Hello World! Я - Яша:bulb:</h2>
-<h4 align="left">:computer: Специализация: Data Science, Data Analyst, Telegram Bot development</h4>
-<h4 align="left">:guardsman: Опыт: более 10 лет работы в крупных страховых компаниях</h4><h5>Росгосстрах, СГ МСК, ВТБ Страхование, Абсолют страхование, Альфастрахование. Высокая экспертиза в розничном страховании (ИФЛ, ГО, НСиБ). Снижал убыточность, писал методологию, разрабытывал конкуретные продукты, оценивал риски</h4>
+<h4 align="left">:computer: Мой профиль: Data Science, Data Analyst, Telegram Bot development</h4>
+<h4 align="left">:guardsman: Опыт: более 10 лет работы в крупных страховых компаниях</h4><h5>Росгосстрах, СГ МСК, ВТБ Страхование, Абсолют страхование, Альфастрахование. Специализация: настройка и автоматизаций системы регулярной продуктовой аналитики, аналитики страховых показателей, убыточности, эффективности маркетинговой политики и оценки риска. Также умею: методология, маркетинговые материалы, ТЗ,  комплексные калькуляторы(расчёт, оформление печатных форм и т.п.), обучение сотрудников, продуктовые исследования, продуктовая разработка</h4>
 
 <h3 align="left">:blue_heart: Pet-проекты </h4>
 
-- [Лига уютного футбола](https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига
 - [CozyFamily](https://t.me/cozyfamily) - мастерская по разработке телеграм-ботов
-
+- [Лига уютного футбола](https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига
   
 <h4 align="left">Контакты</h4>
 
@@ -29,9 +28,10 @@
 |:----------:|:-------------:|:------:|
 | [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| EDA + ML|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_away.ipynb)| Отток клиентов из банка| ML|
-|  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Анализ рынка видеоигр за 20 лет| EDA|
-|  [Телеком](https://github.com/cozyfootball/cozyfootball/blob/main/telekom_ml.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML|
+|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Модель рекомендации перспективных месторождений| ML|
+|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML|
 |  [Недвижимость](https://github.com/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Исследование факторов влияющих на стоимость квартир|   EDA|
+|  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Анализ рынка видеоигр за 20 лет| EDA|
 | [Вадимка](https://t.me/stopalfa_bot)| Бот-инструктор по возврату страховой премии [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| TGdev|
 |  [Cozyfootball](https://t.me/CozyFutbot) |  Уникальный бот для администрирования футбольных групп |  TGdev|
 |  [Староста](https://t.me/ds_55) | Бот-староста 55 потока курса Яндекс Практикум "Специалист по Data Science" [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  TGdev |
