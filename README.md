@@ -5,7 +5,7 @@
 <h4 align="left">:computer: Мой профиль: Data Science, Data Analyst, Telegram Bot development</h4>
 <h4 align="left">:guardsman: Опыт: более 10 лет работы в крупных страховых компаниях</h4><h5>Росгосстрах, СГ МСК, ВТБ Страхование, Абсолют страхование, Альфастрахование. Специализация: настройка и автоматизаций системы регулярной продуктовой аналитики, аналитики страховых показателей, убыточности, эффективности маркетинговой политики и оценки риска. Также умею: методология, маркетинговые материалы, ТЗ,  комплексные калькуляторы(расчёт, оформление печатных форм и т.п.), обучение сотрудников, продуктовые исследования, продуктовая разработка</h4>
 
-<h3 align="left">:blue_heart: Pet-проекты </h4>
+<h3 align="left">:blue_heart: Pet-проекты [.](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/faq.ipynb)</h4>
 
 - [CozyFamily](https://t.me/cozyfamily) - мастерская по разработке телеграм-ботов
 - [Лига уютного футбола](https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига
@@ -45,4 +45,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozyfootball&label=Profile%20views&color=0e75b6&style=flat" alt="cozyfootball" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozyfootball&show_icons=true&locale=en&layout=compact" alt="cozyfootball" /></p>
-[...](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/faq.ipynb)
+
