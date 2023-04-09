@@ -5,7 +5,7 @@
 <h4 align="left">:computer: Мой профиль: Data Science, Data Analyst, Telegram Bot development</h4>
 <h4 align="left">:guardsman: Опыт: более 10 лет работы в крупных страховых компаниях</h4><h5>Росгосстрах, СГ МСК, ВТБ Страхование, Абсолют страхование, Альфастрахование. Специализация: настройка и автоматизаций системы регулярной продуктовой аналитики, аналитики страховых показателей, убыточности, эффективности маркетинговой политики и оценки риска. Также умею: методология, маркетинговые материалы, ТЗ,  комплексные калькуляторы(расчёт, оформление печатных форм и т.п.), обучение сотрудников, продуктовые исследования, продуктовая разработка</h4>
 
-<h3 align="left">:blue_heart: Pet-проекты [.](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/faq.ipynb)</h4>
+<h3 align="left"> Pet-проекты:</h3>
 
 - [CozyFamily](https://t.me/cozyfamily) - мастерская по разработке телеграм-ботов
 - [Лига уютного футбола](https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига
@@ -41,7 +41,9 @@
 | [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Страховая разработка |
 |  [Исследование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |    Исследование ценностей сотрудников и клиентов  банка  |   Страховое исследование|
 |  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Уникальная методика по определению типа конструктивных элементов загородных строений. |   Страховая методология |
-|  [Калькулятор](https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Проект страхового калькулятора: от этапа расчёта страховой стоимости до этапа оформления печатных форм|   Страховая автоматизация |
+|  [Калькулятор]
+ [:blue_heart:](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/faq.ipynb)
+  (https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Проект страхового калькулятора: от этапа расчёта страховой стоимости до этапа оформления печатных форм|   Страховая автоматизация |
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozyfootball&label=Profile%20views&color=0e75b6&style=flat" alt="cozyfootball" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozyfootball&show_icons=true&locale=en&layout=compact" alt="cozyfootball" /></p>
