@@ -26,10 +26,11 @@
 
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
-| [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| EDA + ML|
+| [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_away.ipynb)| Дефолт клиентов банка| EDA + ML|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_away.ipynb)| Отток клиентов из банка| ML|
 | [Страховые случаи](https://github.com/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Прогноз страховых убытков у клиентов компании | ML|
 |  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Прогноз заказов такси | ML|
+|  [Золото](https://github.com/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Прогноз по добыче золота из руды| ML|
 |  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Прогноз рыночной стоимости автобомиля| ML|
 |  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Модель рекомендации перспективных месторождений| ML|
 |  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML|
