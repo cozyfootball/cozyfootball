@@ -5,7 +5,7 @@
 <h4 align="left">:computer: Мой профиль: Data Science, Data Analyst, Telegram Bot development</h4>
 <h4 align="left">:guardsman: Опыт: более 10 лет работы в крупных страховых компаниях</h4><h5>Росгосстрах, СГ МСК, ВТБ Страхование, Абсолют страхование, Альфастрахование. Специализация: настройка и автоматизаций системы регулярной продуктовой аналитики, аналитики страховых показателей, убыточности, эффективности маркетинговой политики и оценки риска. Также умею: методология, маркетинговые материалы, ТЗ,  комплексные калькуляторы(расчёт, оформление печатных форм и т.п.), обучение сотрудников, продуктовые исследования, продуктовая разработка</h4>
 
-<h3 align="left">:blue_heart: Pet-проекты </h4>
+<h3 align="left"> Pet-проекты:</h3>
 
 - [CozyFamily](https://t.me/cozyfamily) - мастерская по разработке телеграм-ботов
 - [Лига уютного футбола](https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига
@@ -28,8 +28,11 @@
 |:----------:|:-------------:|:------:|
 | [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| EDA + ML|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_away.ipynb)| Отток клиентов из банка| ML|
+| [Страховые случаи](https://github.com/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Прогноз страховых убытков у клиентов компании | ML|
+|  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Прогноз заказов такси | ML|
+|  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Прогноз рыночной стоимости автобомиля| ML|
 |  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Модель рекомендации перспективных месторождений| ML|
-|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML|
+|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML|
 |  [Недвижимость](https://github.com/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Исследование факторов влияющих на стоимость квартир|   EDA|
 |  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Анализ рынка видеоигр за 20 лет| EDA|
 | [Вадимка](https://t.me/stopalfa_bot)| Бот-инструктор по возврату страховой премии [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| TGdev|
@@ -42,3 +45,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozyfootball&label=Profile%20views&color=0e75b6&style=flat" alt="cozyfootball" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozyfootball&show_icons=true&locale=en&layout=compact" alt="cozyfootball" /></p>
+
