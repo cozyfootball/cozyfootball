@@ -26,8 +26,8 @@
 
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
-| [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_away.ipynb)| Дефолт клиентов банка| EDA + ML|
-| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_away.ipynb)| Отток клиентов из банка| ML|
+| [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| EDA + ML|
+| [Отток клиентов](https://github.com/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов из банка| ML|
 | [Страховые случаи](https://github.com/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Прогноз страховых убытков у клиентов компании | ML|
 |  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Прогноз заказов такси | ML|
 |  [Золото](https://github.com/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Прогноз по добыче золота из руды| ML|
