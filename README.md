@@ -52,11 +52,16 @@
 
 <h3 align="center">Разработка и автоматизация</h3>
 
+| Название   |     Описание    |  Тип|
+|:----------:|:-------------:|:------:|
 | [Вадимка](https://t.me/stopalfa_bot)| Бот-инструктор по возврату страховой премии [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| Python|
 |  [Cozyfootball](https://t.me/CozyFutbot) |  Уникальный бот для администрирования футбольных групп |  Python|
 |  [Староста](https://t.me/ds_55) | Бот-староста 55 потока курса Яндекс Практикум "Специалист по Data Science" [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  Python |
 
 <h3 align="center">Методология</h3>
+
+| Название   |     Описание    |  Тип|
+|:----------:|:-------------:|:------:|
 | [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Разработка|
 |  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Уникальная методика по определению типа конструктивных элементов загородных строений. | Методология|
 |  [Калькулятор](https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Проект страхового калькулятора: от этапа расчёта страховой стоимости до этапа оформления печатных форм|   Автоматизация в Excel|
