@@ -1,8 +1,7 @@
 <p align="center">
-  <img width="300" height="300" src="https://github.com/cozyfootball/cozyfootball/blob/main/catsadd.jpg">
+  <img width="300" height="300" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo1.jpg">
 </p>
-<h2 align="center">Hello World! Я - Яша:bulb:</h2>
-<h4 align="left">:computer: Мой профиль: Data Science, Data Analyst, Telegram Bot development</h4>
+<h3 align="center">Hello World! Я - Яша:bulb:</h3>
 <h4 align="left">:guardsman: Опыт: более 10 лет работы в крупных страховых компаниях</h4><h5>Росгосстрах, СГ МСК, ВТБ Страхование, Абсолют страхование, Альфастрахование. Специализация: настройка и автоматизаций системы регулярной продуктовой аналитики, аналитики страховых показателей, убыточности, эффективности маркетинговой политики и оценки риска. Также умею: методология, маркетинговые материалы, ТЗ,  комплексные калькуляторы(расчёт, оформление печатных форм и т.п.), обучение сотрудников, продуктовые исследования, продуктовая разработка</h4>
 
 <h3 align="left"> Pet-проекты:</h3>
