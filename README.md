@@ -2,10 +2,14 @@
   <img width="525" height="525" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo1.jpg">
 </p>
 <h3 align="left">Hello World! Меня зовут Яша:minidisc:.  
+  
   Я Data Analyst:page_with_curl:</h3>
 <h4 align="left">Умею и продолжаю развиваться в:  
+  
 - анализ данных  
+  
 - машинное обучение  
+  
 - разработка телеграм ботов</h4>
 
 <h3 align="left"> Pet-проекты:</h3>
