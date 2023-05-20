@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="525" height="525" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo1.jpg">
+  <img width="450" height="450" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo1.jpg">
 </p>
-<h3 align="left">Hello World! Меня зовут Яша:minidisc:.  
+<h3 align="left">Hello World! Меня зовут Яша:minidisc:  
   
-  Я Data Analyst:page_with_curl:</h3>
-<h4 align="left">Умею и продолжаю развиваться в:  
+ Я Data Analyst:page_with_curl:</h3>
+<h4 align="left">Специализации:  
   
 - анализ данных  
   
