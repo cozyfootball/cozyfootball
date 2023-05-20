@@ -15,7 +15,7 @@
 <h3 align="left"> Pet-проекты:</h3>
 
 - [CozyFamily](https://t.me/cozyfamily) - мастерская по разработке телеграм-ботов
-- [Лига уютного футбола](https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига
+- [Лига уютного футбола](https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига из Москвы
   
 <h4 align="left">Контакты</h4>
 
