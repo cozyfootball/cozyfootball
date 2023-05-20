@@ -28,28 +28,39 @@
 <h3 align="left">Рабочие инструменты:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<h3 align="center">Мои проекты</h3>
-
+<h3 align="center">Исследования</h3>
 
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
-| [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| EDA + ML|
-| [Отток клиентов](https://github.com/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов из банка| ML|
-| [Страховые случаи](https://github.com/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Прогноз страховых убытков у клиентов компании | ML|
-|  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Прогноз заказов такси | ML|
-|  [Золото](https://github.com/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Прогноз по добыче золота из руды| ML|
-|  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Прогноз рыночной стоимости автобомиля| ML|
-|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Модель рекомендации перспективных месторождений| ML|
-|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML|
-|  [Недвижимость](https://github.com/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Исследование факторов влияющих на стоимость квартир|   EDA|
-|  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Анализ рынка видеоигр за 20 лет| EDA|
-| [Вадимка](https://t.me/stopalfa_bot)| Бот-инструктор по возврату страховой премии [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| TGdev|
-|  [Cozyfootball](https://t.me/CozyFutbot) |  Уникальный бот для администрирования футбольных групп |  TGdev|
-|  [Староста](https://t.me/ds_55) | Бот-староста 55 потока курса Яндекс Практикум "Специалист по Data Science" [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  TGdev |
-| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Страховая разработка |
-|  [Исследование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |    Исследование ценностей сотрудников и клиентов  банка  |   Страховое исследование|
-|  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Уникальная методика по определению типа конструктивных элементов загородных строений. |   Страховая методология |
-|  [Калькулятор](https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Проект страхового калькулятора: от этапа расчёта страховой стоимости до этапа оформления печатных форм|   Страховая автоматизация |
+| [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Портфель заемщиков банка| EDA(Python)|
+|  [Недвижимость](https://github.com/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Рынок недвижимости СПб|   EDA(Python)|
+|  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Рынок видеогр| EDA(Python)|
+|  [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Страховое восприятие сотрудников продаж банка|   EDA(PowerPoint)|
+
+<h3 align="center">Машинное обучение</h3>
+
+| Название   |     Описание    |  Тип|
+|:----------:|:-------------:|:------:|
+| [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| ML(Python)|
+| [Отток клиентов](https://github.com/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов из банка| ML(Python)|
+| [Страховые случаи](https://github.com/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Прогноз страховых убытков у клиентов компании | ML(Python)|
+|  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Прогноз заказов такси | ML(Python)|
+|  [Золото](https://github.com/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Прогноз по добыче золота из руды| ML(Python)|
+|  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Прогноз рыночной стоимости автобомиля| ML(Python)|
+|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Модель рекомендации перспективных месторождений| ML(Python)|
+|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML(Python)|
+
+<h3 align="center">Разработка и автоматизация</h3>
+
+| [Вадимка](https://t.me/stopalfa_bot)| Бот-инструктор по возврату страховой премии [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| Python|
+|  [Cozyfootball](https://t.me/CozyFutbot) |  Уникальный бот для администрирования футбольных групп |  Python|
+|  [Староста](https://t.me/ds_55) | Бот-староста 55 потока курса Яндекс Практикум "Специалист по Data Science" [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  Python |
+
+<h3 align="center">Методология</h3>
+| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Разработка|
+|  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Уникальная методика по определению типа конструктивных элементов загородных строений. | Методология|
+|  [Калькулятор](https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Проект страхового калькулятора: от этапа расчёта страховой стоимости до этапа оформления печатных форм|   Автоматизация в Excel|
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozyfootball&label=Profile%20views&color=0e75b6&style=flat" alt="cozyfootball" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozyfootball&show_icons=true&locale=en&layout=compact" alt="cozyfootball" /></p>
