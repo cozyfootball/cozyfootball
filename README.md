@@ -42,29 +42,29 @@
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
 | [Заемщики](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| ML(Python)|
-| [Отток клиентов](https://github.com/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов из банка| ML(Python)|
-| [Страховые случаи](https://github.com/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Прогноз страховых убытков у клиентов компании | ML(Python)|
-|  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Прогноз заказов такси | ML(Python)|
-|  [Золото](https://github.com/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Прогноз по добыче золота из руды| ML(Python)|
-|  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Прогноз рыночной стоимости автобомиля| ML(Python)|
-|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Модель рекомендации перспективных месторождений| ML(Python)|
-|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Модель рекомендации новых тарифов клиентам сотовой компании| ML(Python)|
+| [Отток клиентов](https://github.com/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| ML(Python)|
+| [Страхование](https://github.com/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Cтраховые случаи| ML(Python)|
+|  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Заказы такси | ML(Python)|
+|  [Золото](https://github.com/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Добыча золота из руды| ML(Python)|
+|  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Рыночная стоимость автомобиля| ML(Python)|
+|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Перспективные месторождения| ML(Python)|
+|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Рекомендация тарифов| ML(Python)|
 
 <h3 align="center">Разработка и автоматизация</h3>
 
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
-| [Вадимка](https://t.me/stopalfa_bot)| Бот-инструктор по возврату страховой премии [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| Python|
-|  [Cozyfootball](https://t.me/CozyFutbot) |  Уникальный бот для администрирования футбольных групп |  Python|
-|  [Староста](https://t.me/ds_55) | Бот-староста 55 потока курса Яндекс Практикум "Специалист по Data Science" [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  Python |
+| [Вадимка](https://t.me/stopalfa_bot)| Помощь в возврата денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| Python|
+|  [Cozyfootball](https://t.me/CozyFutbot) |  Управляющий директор футбольной лиги|  Python|
+|  [Староста](https://t.me/ds_55) | Бот-староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  Python |
 
 <h3 align="center">Методология</h3>
 
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
-| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Комплексный сервисно-страховой продукт по страхованию от риска потери работы| Разработка|
-|  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Уникальная методика по определению типа конструктивных элементов загородных строений. | Методология|
-|  [Калькулятор](https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Проект страхового калькулятора: от этапа расчёта страховой стоимости до этапа оформления печатных форм|   Автоматизация в Excel|
+| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Продукт по потере работы| Разработка|
+|  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Методика определения типа строения| Методология|
+|  [Калькулятор](https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Автоматический калькулятор расчёта страховых сумм и премий|  Excel|
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozyfootball&label=Profile%20views&color=0e75b6&style=flat" alt="cozyfootball" /> </p>
 
