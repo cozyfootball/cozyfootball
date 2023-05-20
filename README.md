@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="https://github.com/cozyfootball/cozyfootball/blob/main/catsadd.jpg">
+  <img width="300" height="300" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo.jpg">
 </p>
 <h2 align="center">Hello World! Я - Яша:bulb:</h2>
 <h4 align="left">:computer: Мой профиль: Data Science, Data Analyst, Telegram Bot development</h4>
