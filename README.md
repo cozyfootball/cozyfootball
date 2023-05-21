@@ -62,8 +62,10 @@
 
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
-| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Продукт по потере работы| Разработка|
+| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf) | Продукт по потере работы| Разработка|
+|  [Оценка рисков](https://github.com/cozyfootball/cozyfootball/blob/main/Типовая методика по оценке риска.pdf) | Методика по оценке рисков| Методология|
 |  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Методика определения типа строения| Методология|
+|  [Инструкция](https://github.com/cozyfootball/cozyfootball/blob/main/Инструкция по работе с калькулятором.pdf) | Инструкция по работе с калькулятором| Excel|
 |  [Калькулятор](https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Автоматический калькулятор расчёта страховых сумм и премий|  Excel|
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozyfootball&label=Profile%20views&color=0e75b6&style=flat" alt="cozyfootball" /> </p>
