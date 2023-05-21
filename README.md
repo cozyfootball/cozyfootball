@@ -62,7 +62,7 @@
 
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
-| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf)| Продукт по потере работы| Разработка|
+| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf) | Продукт по потере работы| Разработка|
 |  [Оценка рисков](https://github.com/cozyfootball/cozyfootball/blob/main/Типовая методика по оценке риска.pdf) | Методика по оценке рисков| Методология|
 |  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Методика определения типа строения| Методология|
 |  [Инструкция](https://github.com/cozyfootball/cozyfootball/blob/main/Инструкция по работе с калькулятором.pdf) | Инструкция по работе с калькулятором| Excel|
