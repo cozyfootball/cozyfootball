@@ -57,9 +57,9 @@
 
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
-| [Вадимка](https://t.me/stopalfa_bot)| Помощь в возврата денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| Python|
-|  [Cozyfootball](https://t.me/CozyFutbot) |  Управляющий директор футбольной лиги|  Python|
-|  [Староста](https://t.me/ds_55) | Бот-староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  Python |
+| [Вадимка](https://t.me/stopalfa_bot)| Помощь в возврата денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| Python + SQL|
+|  [Cozyfootball](https://t.me/CozyFutbot) |  Управляющий директор футбольной лиги|  Python + SQL|
+|  [Староста](https://t.me/ds_55) | Бот-староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  Python + SQL|
 
 <h3 align="left">Методология</h3>
 
