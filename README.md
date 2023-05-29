@@ -2,6 +2,7 @@
   <img width="500" height="500" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo1.jpg">
 </p>
 <h3 align="left">Hello World! Меня зовут Яша:minidisc:  
+  
 Я Data Analyst </h3>
 <h4 align="left">Умею и продолжаю развиваться в:  
   
