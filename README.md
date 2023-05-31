@@ -3,7 +3,7 @@
 </p>
 <h3 align="left">Hello World! Меня зовут Яша:minidisc:  
   
-Я Data Analyst </h3>
+:top: DA в своем сегменте</h3>
 <h4 align="left">Умею и продолжаю развиваться в:  
   
 - анализ данных  
