@@ -36,7 +36,7 @@
 | [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Кредитный портфель банка| EDA(Python)|
 |  [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Рынок недвижимости СПб|   EDA(Python)|
 |  [Футбол](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb) |  Лига чемпионов 2021/2022|   EDA(Python)|
-|  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Рынок видеогр| EDA(Python)|
+|  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Рынок видеоигр| EDA(Python)|
 |  [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Страховое восприятие сотрудников продаж банка|   EDA(PowerPoint)|
 
 <h3 align="left">Машинное обучение</h3>
