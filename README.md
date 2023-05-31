@@ -1,7 +1,7 @@
 <p align="center">
   <img width="500" height="500" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo1.jpg">
 </p>
-<h3 align="left">Hello World! Меня зовут Яша:trollface:  
+<h3 align="left">Hello World! Меня зовут Яша:bowtie:  
   
 :top:Data Analyst в своем сегменте:chart_with_downwards_trend:</h3>
 <h4 align="left">Умею и продолжаю развиваться в:  
