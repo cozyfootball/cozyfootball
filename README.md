@@ -34,8 +34,8 @@
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
 | [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Кредитный портфель банка| EDA(Python)|
-|  [Недвижимость](https://github.com/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Рынок недвижимости СПб|   EDA(Python)|
-|  [Футбол](https://github.com/cozyfootball/cozyfootball/blob/main/UCL.ipynb) |  Лига чемпионов 2021/2022|   EDA(Python)|
+|  [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Рынок недвижимости СПб|   EDA(Python)|
+|  [Футбол](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb) |  Лига чемпионов 2021/2022|   EDA(Python)|
 |  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Рынок видеогр| EDA(Python)|
 |  [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Страховое восприятие сотрудников продаж банка|   EDA(PowerPoint)|
 
@@ -43,11 +43,12 @@
 
 | Название   |     Описание    |  Тип|
 |:----------:|:-------------:|:------:|
+| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Отток клиентов телекома| ML(Python)|
 | [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| ML(Python)|
-| [Отток клиентов](https://github.com/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| ML(Python)|
-| [Страхование](https://github.com/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Cтраховые случаи| ML(Python)|
+| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| ML(Python)|
+| [Страхование](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Cтраховые случаи| ML(Python)|
 |  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Заказы такси | ML(Python)|
-|  [Золото](https://github.com/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Добыча золота из руды| ML(Python)|
+|  [Золото](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Добыча золота из руды| ML(Python)|
 |  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Рыночная стоимость автомобиля| ML(Python)|
 |  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Перспективные месторождения| ML(Python)|
 |  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Рекомендация тарифов| ML(Python)|
