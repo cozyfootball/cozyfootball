@@ -38,7 +38,7 @@
 |  [Футбол](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb) |  Лига чемпионов 2021/2022|   EDA(Python)|
 |  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Рынок видеогр| EDA(Python)|
 |  [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Страховое восприятие сотрудников продаж банка|   EDA(PowerPoint)|
-|   Исследования|
+
 <h3 align="left">Машинное обучение</h3>
 
 | Название   |     Описание    |  Тип|
