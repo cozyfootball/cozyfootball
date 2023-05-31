@@ -1,12 +1,23 @@
-
-
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
-    <title><p align="center">
-  <img width="500" height="500" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo1.jpg">
-</p>
+    <title>My Markdown Document</title>
+    <style>
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      
+      th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+      }
+    </style>
+  </head>
+  
+  <body>
 <h3 align="left">Hello World! Меня зовут Яша:bowtie:  
   
 :top:Data Analyst в своем сегменте:chart_with_downwards_trend:</h3>
@@ -82,21 +93,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cozyfootball&label=Profile%20views&color=0e75b6&style=flat" alt="cozyfootball" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozyfootball&show_icons=true&locale=en&layout=compact" alt="cozyfootball" /></p></title>
-    <style>
-      table {
-        width: 100%;
-        border-collapse: collapse;
-      }
-      
-      th, td {
-        padding: 8px;
-        text-align: left;
-        border-bottom: 1px solid #ddd;
-      }
-    </style>
-  </head>
-  
-  <body>
-    <!-- Ваш Markdown-код здесь -->
+
   </body>
 </html>
+  <img width="500" height="500" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo1.jpg">
+</p>
+
