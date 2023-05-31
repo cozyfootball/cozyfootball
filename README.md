@@ -1,4 +1,4 @@
-  <title><p align="center">
+<p align="center">
   <img width="500" height="500" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo1.jpg">
 </p>
 <h3 align="left">Hello World! Меня зовут Яша:bowtie:  
