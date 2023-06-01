@@ -34,7 +34,7 @@
 
 | Название   |     Описание    |  Инструмент|
 | --- | --- | --- |
-| <div style="width:30%">[Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)</div> | <div style="width:35%">Кредитный портфель банка</div> | <div style="width:35%">Python</div> |
+| <div style="width:40%">[Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)</div> | <div style="width:45%">Кредитный портфель банка</div> | <div style="width:15%">Python</div> |
 | <div style="width:30%">Содержимое ячейки 4</div> | <div style="width:35%">Содержимое ячейки 5</div> | <div style="width:35%">Содержимое ячейки 6</div> |
 | <div style="width:30%">Содержимое ячейки 7</div> | <div style="width:35%">Содержимое ячейки 8</div> | <div style="width:35%">Содержимое ячейки 9</div> |
 
