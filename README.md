@@ -32,18 +32,18 @@
 <h3 align="left">Исследования</h3>
 
 | Название   |     Описание    |  Инструмент|
-|:----------:|:-------------:|------:|
+| :---: {: style="width: 30%"} | :---: {: style="width: 35%"} | :---: {: style="width: 35%"} |
 | [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Кредитный портфель банка| Python|
 |  [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Рынок недвижимости СПб|   Python|
 |  [Футбол](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb) |  Лига чемпионов 2021/2022|   Python|
 |  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Рынок видеоигр| Python|
-|  [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Страховое восприятие сотрудников продаж банка|   PowerPoint|{: style="width: 250%"}
+|  [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Страховое восприятие сотрудников продаж банка|   PowerPoint|
 
 
 <h3 align="left">Машинное обучение</h3>
 
 | Название   |     Описание    |  Инструмент|
-|:----------:|:-------------:|------:|
+| :---: {: style="width: 30%"} | :---: {: style="width: 35%"} | :---: {: style="width: 35%"} |
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Отток клиентов телекома| Python|
 | [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| Python|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| Python|
