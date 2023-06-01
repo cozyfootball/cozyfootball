@@ -43,7 +43,7 @@
 <h3 align="left">Машинное обучение</h3>
 
 | Название   |     Описание    |  Инструмент|
-|:----------:|:-------------:|:------:|
+|:----------|-------------|------:|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Отток клиентов телекома| Python|
 | [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| Python|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| Python|
