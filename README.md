@@ -57,7 +57,7 @@
 
 <h3 align="left">Разработка и автоматизация</h3>
 
-| Название   |     Описание    |  м|
+| Название   |     Описание    |  Инструмент|
 |:----------:|:-------------:|:------:|
 | [Вадимка](https://t.me/stopalfa_bot)| Помощь в возврата денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| Python, SQL|
 |  [Cozyfootball](https://t.me/CozyFutbot) |  Управляющий директор футбольной лиги|  Python, SQL|
