@@ -31,41 +31,41 @@
 
 <h3 align="left">Исследования</h3>
 
-| Название   |     Описание    |  Тип|
+| Название   |     Описание    |  Инструмент|
 |:----------:|:-------------:|:------:|
-| [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Кредитный портфель банка| EDA(Python)|
-|  [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Рынок недвижимости СПб|   EDA(Python)|
-|  [Футбол](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb) |  Лига чемпионов 2021/2022|   EDA(Python)|
-|  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Рынок видеоигр| EDA(Python)|
-|  [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Страховое восприятие сотрудников продаж банка|   EDA(PowerPoint)|
+| [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Кредитный портфель банка| Python|
+|  [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Рынок недвижимости СПб|   Python|
+|  [Футбол](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb) |  Лига чемпионов 2021/2022|   Python|
+|  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Рынок видеоигр| Python|
+|  [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Страховое восприятие сотрудников продаж банка|   PowerPoint|
 
 <h3 align="left">Машинное обучение</h3>
 
-| Название   |     Описание    |  Тип|
+| Название   |     Описание    |  Инструмент|
 |:----------:|:-------------:|:------:|
-| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Отток клиентов телекома| ML(Python)|
-| [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| ML(Python)|
-| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| ML(Python)|
-| [Страхование](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Cтраховые случаи| ML(Python)|
-|  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Заказы такси | ML(Python)|
-|  [Золото](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Добыча золота из руды| ML(Python)|
-|  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Рыночная стоимость автомобиля| ML(Python)|
-|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Перспективные месторождения| ML(Python)|
-|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Рекомендация тарифов| ML(Python)|
-|  [NLP](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/nlp.ipynb)| Изучение тональности текста| ML(Python)|
-|  [CV](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/cv.ipynb)| Определение возраста по фото| ML(Python)|
+| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Отток клиентов телекома| Python|
+| [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| Python|
+| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| Python|
+| [Страхование](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Cтраховые случаи| Python|
+|  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Заказы такси | Python|
+|  [Золото](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Добыча золота из руды| Python|
+|  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Рыночная стоимость автомобиля| Python|
+|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Перспективные месторождения| Python|
+|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Рекомендация тарифов| Python|
+|  [NLP](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/nlp.ipynb)| Изучение тональности текста| Python|
+|  [CV](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/cv.ipynb)| Определение возраста по фото| Python|
 
 <h3 align="left">Разработка и автоматизация</h3>
 
-| Название   |     Описание    |  Тип|
+| Название   |     Описание    |  м|
 |:----------:|:-------------:|:------:|
-| [Вадимка](https://t.me/stopalfa_bot)| Помощь в возврата денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| Python + SQL|
-|  [Cozyfootball](https://t.me/CozyFutbot) |  Управляющий директор футбольной лиги|  Python + SQL|
-|  [Староста](https://t.me/ds_55) | Бот-староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  Python + SQL|
+| [Вадимка](https://t.me/stopalfa_bot)| Помощь в возврата денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| Python, SQL|
+|  [Cozyfootball](https://t.me/CozyFutbot) |  Управляющий директор футбольной лиги|  Python, SQL|
+|  [Староста](https://t.me/ds_55) | Бот-староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  Python, SQL|
 
 <h3 align="left">Методология</h3>
 
-| Название   |     Описание    |  Тип|
+| Название   |     Описание    |  Инструмент|
 |:----------:|:-------------:|:------:|
 | [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf) | Продукт по потере работы| Разработка|
 |  [Оценка рисков](https://github.com/cozyfootball/cozyfootball/blob/main/risks.pdf) | Методика по оценке рисков| Методология|
