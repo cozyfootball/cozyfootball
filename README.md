@@ -32,7 +32,7 @@
 <h3 align="left">Исследования</h3>
 
 | Название   |     Описание    |  Инструмент|
-| :---: {: style="width: 30%"} | :---: {: style="width: 35%"} | :---: {: style="width: 35%"} |
+|:----------|-------------|------:|
 | [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Кредитный портфель банка| Python|
 |  [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Рынок недвижимости СПб|   Python|
 |  [Футбол](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb) |  Лига чемпионов 2021/2022|   Python|
