@@ -53,7 +53,7 @@
 |  [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Страховая грамотность|   PowerPoint|
 
 
-<h3 align="left">Машинное обучение</h3>
+<h3 align="center">Машинное обучение</h3>
 
 | Название   |     Описание    |  Инструмент|
 | ------------- |:------------------:| -----:|
@@ -68,6 +68,9 @@
 |  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Рекомендация тарифов| Python|
 |  [NLP](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/nlp.ipynb)| Изучение тональности текста| Python|
 |  [CV](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/cv.ipynb)| Определение возраста по фото| Python|
+<a href="https://github.com/berserkr7/Data-Science-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
+
+***
 
 <h3 align="left">Разработка и автоматизация</h3>
 
