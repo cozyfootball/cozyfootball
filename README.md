@@ -45,7 +45,7 @@
 <h3 align="left">Исследования</h3>
 
 | Название   |     Описание    |  Инструмент|
-|:----------|-------------|------:|
+| ------------- |:------------------:| -----:|
 | [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Кредитный портфель банка| Python|
 |  [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Рынок недвижимости СПб|   Python|
 |  [Футбол](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb) |  Лига чемпионов 2021/2022|   Python|
@@ -56,7 +56,7 @@
 <h3 align="left">Машинное обучение</h3>
 
 | Название   |     Описание    |  Инструмент|
-|:----------|-------------|------:|
+| ------------- |:------------------:| -----:|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Отток клиентов телекома| Python|
 | [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| Python|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| Python|
@@ -72,7 +72,7 @@
 <h3 align="left">Разработка и автоматизация</h3>
 
 | Название   |     Описание    |  Инструмент|
-|:----------|-------------|------:|
+| ------------- |:------------------:| -----:|
 | [Вадимка](https://t.me/stopalfa_bot)| Помощь в возвратe денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| Python, SQL|
 |  [Cozyfootball](https://t.me/CozyFutbot) |  Управляющий директор футбольной лиги|  Python, SQL|
 |  [Староста](https://t.me/ds_55) | Бот-староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  Python, SQL|
@@ -80,7 +80,7 @@
 <h3 align="left">Методология</h3>
 
 | Название   |     Описание    |  Инструмент|
-|:----------|-------------|------:|
+| ------------- |:------------------:| -----:|
 | [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf) | Продукт по потере работы| Разработка|
 |  [Оценка рисков](https://github.com/cozyfootball/cozyfootball/blob/main/risks.pdf) | Методика по оценке рисков| Методология|
 |  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Методика определения типа строения| Методология|
