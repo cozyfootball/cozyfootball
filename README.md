@@ -42,6 +42,7 @@
 </p>
 
 <h3 align="center">Исследования</h3>
+
 | Проект       | Описание                | Стек |
 | ------------- |:------------------:| -----:|
 | 01. [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)     | Иследовательский анализ клиентского портфеля банка     | pandas, seaborn, matplotlib |
