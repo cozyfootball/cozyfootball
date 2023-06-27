@@ -52,12 +52,12 @@
 | [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Исследование страхового воспрития сотрудников банка и и их клиентов         |    PowerPoint |
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Отток клиентов телекома| phik, sklearn, catboost|
 | [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| sklearn, catboost|
-| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| sklearn, catboost|
-| [Страхование](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Cтраховые случаи| sklearn, catboost|
+| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| sklearn, catboost, imblearn|
+| [Страхование](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Cтраховые случаи| sklearn|
 |  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Заказы такси | sklearn, catboost|
 |  [Золото](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Добыча золота из руды| sklearn, catboost|
 |  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Рыночная стоимость автомобиля| sklearn, catboost|
-|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Перспективные месторождения| sklearn, catboost|
+|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Перспективные месторождения| sklearn, catboost, scipy|
 |  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Рекомендация тарифов|sklearn, catboost|
 |  [NLP](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/nlp.ipynb)| Изучение тональности текста| sklearn, nltk|
 |  [CV](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/cv.ipynb)| Определение возраста по фото| keras, tensorflow|
