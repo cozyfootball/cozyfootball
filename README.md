@@ -45,12 +45,13 @@
 
 | Проект       | Описание                | Стек |
 | ------------- |:------------------:| -----:|
-| [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)     | Иследовательский анализ клиентского портфеля банка     | pandas, seaborn, matplotlib |
+| [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)     | Иследовательский анализ клиентского портфеля банка    | pandas, seaborn, matplotlib |
 | [Лига Чемпионов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb)| Сегментированное изучение статистики розыгрыша футбольной лиги чемпионов  2021 - 2022       |    pandas |
 | [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Иследовательский анализ истории рынка видеоигр для приставок и портативных устройств  |   pandas, seaborn, matplotlib |
 | [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb)  | Исследовательнский анализ рынка недвижимости СПБ и Ленинградской области        |    pandas, seaborn, matplotlib |
-| [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Исследование страхового воспрития сотрудников банка и и их клиентов         |    PowerPoint |
-| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Отток клиентов телекома| phik, sklearn, catboost|
+| [Медицинские услуги](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/forML.ipynb)| Изучение тенденций ценообразования медицинской клиники       |    pandas, matplotlib |
+| [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Исследование страхового восприятия сотрудников банка и их кредитных клиентов       |    PowerPoint |
+| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Отток абонентов клиентов телеком компании | phik, sklearn, catboost|
 | [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| sklearn, catboost|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| sklearn, catboost, imblearn|
 | [Страхование](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Cтраховые случаи| sklearn|
