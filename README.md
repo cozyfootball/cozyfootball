@@ -26,6 +26,7 @@
 <a href="www.linkedin.com/in/yasha-bykhal-cozy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yakov-bykhal-0aa44a206/" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Рабочие инструменты:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
@@ -40,17 +41,61 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
+<h3 align="center">Исследования</h3>
+| Проект       | Описание                | Стек |
+| ------------- |:------------------:| -----:|
+| 01. [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)     | Иследовательский анализ клиентского портфеля банка     | pandas, seaborn, matplotlib |
+| 02. [Лига Чемпионов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb)| Сегментированное изучение статистики розыгрыша футбольной лиги чемпионов  2021 - 2022       |    pandas |
+| 03. [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Иследовательский анализ истории рынка видеоигр для приставок и портативных устройств  |   pandas, seaborn, matplotlib |
+| 04. [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb)  | Исследовательнский анализ рынка недвижимости СПБ и Ленинградской области        |    pandas, seaborn, matplotlib |
+| 05. [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Исследование страхового воспрития сотрудников банка и и их клиентов         |    PowerPoint |
+
+
+
+***
+
+
+| Проект       | Описание                | Статус |
+| ------------- |:------------------:| -----:|
+| 01. [Классификация токсичных комментариев BERT](https://github.com/berserkr7/NLP-Projects/tree/main/Toxic-Comments)     |  Необходимо обучить модель классифицировать комментарии на позитивные и негативные. В нашем распоряжении набор данных с разметкой о токсичности правок. Построить модель со значением метрики качества F1 не меньше 0.75. Получение Embeddings с помощью ToxicBERT; Feature Engeneering. | Завершен  |
+
+<a href="https://github.com/berserkr7/NLP-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
+
+---
+<h2><p align="center">Проекты Deep Learning и Computer Vision</p></h2>
+
+
+| Проект       | Описание                | Статус |
+| ------------- |:------------------:| -----:|
+| 01. [Fruits Recognition using CNN](https://github.com/berserkr7/CV-Projects/tree/main/Fruits%20Recognition)     |  Необходимо решить задачу распознавания изображения. Всего 131 класс. Необходимо построить модель, которая будет иметь метрику accuracy > 97% | Завершен  |
+| 02. [Classification using Transfer Learning](https://github.com/berserkr7/CV-Projects/tree/main/Transfer-Learning)     |  Необходимо решить задачу классификации изображений - кошек и собак. В нашем распоряжении имеется датасет кошек и собак. Необходимо построить модель, которая будет иметь метрику accuracy > 90%, применив технику Transfer Learning на ResNet 50 |  Завершен| 
+| 03. [Implementention VGG16](https://github.com/berserkr7/CV-Projects/tree/main/VGG) |  Необходимо реализовать архитектуру глубокой нейронной сети VGG16 на PyTorch |  Завершен| 
+| 04. [Предсказание возраста человека по фотографии](https://github.com/berserkr7/CV-Projects/tree/main/Age-prediction-CV)     |  Необходимо решить задачу предсказания возраста человека по его фотографии. В нашем распоряжении имеется датасет из 7500 лиц. Необходимо построить нейронную сеть, которая будет иметь метрику MAE < 7 на test. Обучать модели будем на Tesla V100 на 30 эпохах, с динамическим изменением Learning Rate. В качестве архитектуры возьмем Residual Network (ResNet50) |  Завершен| 
+
+
+
+
+
+<a href="https://github.com/berserkr7/CV-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
+
+
+---
+
+<h2><p align="center">Kaggle Competitions</p></h2>
+
+
+| Проект       | Описание                | Статус |
+| ------------- |:------------------:| -----:|
+| 01. Классификация курильщика по клиническим анализам     | Необходимо по клиническим анализам классифицировать курильщика. Предсказание модели будет оцениваться по F-мере (F1)    | Завершен|
+| 02. Стоимость недвижимости в Мельбурне     | Необходимо построить модель, определяющую стоимость надвижимости в мельбурне. Предсказание модели будет оцениваться по MAPE (mean absolute Percentage error)   | Завершен |
+
+
+<a href="https://github.com/berserkr7/Kaggle"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
+
 
 
 <h3 align="left">Исследования</h3>
 
-| Название   |     Описание    |  Инструмент|
-| ------------- |:------------------:| -----:|
-| [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Кредитный портфель банка| Python|
-|  [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb) |  Рынок недвижимости СПб|   Python|
-|  [Футбол](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb) |  Лига чемпионов 2021/2022|   Python|
-|  [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Рынок видеоигр| Python|
-|  [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Страховая грамотность|   PowerPoint|
 
 
 <h3 align="center">Машинное обучение</h3>
