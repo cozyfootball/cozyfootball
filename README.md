@@ -51,25 +51,25 @@
 | [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb)  | Исследовательнский анализ рынка недвижимости СПБ и Ленинградской области        |    pandas, seaborn, matplotlib |
 | [Медицинские услуги](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/forML.ipynb)| Изучение тенденций ценообразования медицинской клиники       |    pandas, matplotlib |
 | [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Исследование страхового восприятия сотрудников банка и их кредитных клиентов       |    PowerPoint |
-| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Отток абонентов клиентов телеком компании | phik, sklearn, catboost|
-| [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Дефолт клиентов банка| sklearn, catboost|
-| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Отток клиентов банка| sklearn, catboost, imblearn|
-| [Страхование](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Cтраховые случаи| sklearn|
-|  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Заказы такси | sklearn, catboost|
-|  [Золото](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Добыча золота из руды| sklearn, catboost|
-|  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Рыночная стоимость автомобиля| sklearn, catboost|
-|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Перспективные месторождения| sklearn, catboost, scipy|
-|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Рекомендация тарифов|sklearn, catboost|
+| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Прогноз оттока абонентов клиентов телеком компании | phik, sklearn, catboost|
+| [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Прогноз дефолта клиентов банка| sklearn, catboost|
+| [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Прогноз оттока клиентов банка| sklearn, catboost, imblearn|
+| [Страхование](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Прогноз страховых убытков по договору | sklearn|
+|  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Прогноз заказов такси | sklearn, catboost|
+|  [Золото](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Прогноз добычи золота из руды| sklearn, catboost|
+|  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Определение рыночной стоимости автомобиля| sklearn, catboost|
+|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Прогноз месторождений| sklearn, catboost, scipy|
+|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Рекомендация перехода на новый тариф|sklearn, catboost|
 |  [NLP](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/nlp.ipynb)| Изучение тональности текста| sklearn, nltk|
 |  [CV](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/cv.ipynb)| Определение возраста по фото| keras, tensorflow|
-| [Вадимка](https://t.me/stopalfa_bot)| Помощь в возвратe денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| aiogram, sqlite|
-|  [Cozyfootball](https://t.me/CozyFutbot) |  Управляющий директор футбольной лиги|  aiogram, postgresql, pandas, matplotlib|
-|  [Староста](https://t.me/ds_55) | Бот-староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  aiogram, sqlite, pandas, matplotlib|
-| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf) | Продукт по потере работы| PowerPoint|
+| [Вадимка](https://t.me/stopalfa_bot)| Телеграм-бот. Помощь в возвратe денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| aiogram, sqlite|
+|  [Cozyfootball](https://t.me/CozyFutbot) |  Телеграм-бот.Управляющий директор футбольной лиги|  aiogram, postgresql, pandas, matplotlib|
+|  [Староста](https://t.me/ds_55) | Телеграм-бот. Староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  aiogram, sqlite, pandas, matplotlib|
+| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf) | Страховой продукт по риску потери работы| PowerPoint|
 |  [Оценка рисков](https://github.com/cozyfootball/cozyfootball/blob/main/risks.pdf) | Методика по оценке рисков| Word|
 |  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Методика определения типа строения| Word|
 |  [Инструкция](https://github.com/cozyfootball/cozyfootball/blob/main/calc.pdf) | Инструкция по работе с калькулятором| Word|
-|  [Калькулятор](https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Калькулятор СС и СП|  Excel|
+|  [Калькулятор](https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Автоматизация процесса принятия на страхование|  Excel|
 ***
 
 
