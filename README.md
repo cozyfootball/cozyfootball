@@ -3,7 +3,7 @@
 </p>
 <h3 align="left">Hello World! Меня зовут Яша:bowtie:  
   
-:top:Data Analyst в своем сегменте:chart_with_downwards_trend:</h3>
+:top:Data Researcher в своем сегменте:chart_with_downwards_trend:</h3>
 <h4 align="left">Умею и продолжаю развиваться в:  
   
 - анализ данных  
