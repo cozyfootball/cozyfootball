@@ -64,6 +64,7 @@
 |  [CV](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/cv.ipynb)| Определение возраста по фото| keras, tensorflow|
 | [Вадимка](https://t.me/stopalfa_bot)| Телеграм-бот. Помощь в возвратe денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| aiogram, sqlite|
 |  [Cozyfootball](https://t.me/CozyFutbot) |  Телеграм-бот. Управляющий директор футбольной лиги|  aiogram, postgresql, pandas, matplotlib|
+| [Стоматология](https://t.me/drvarbot)| Телеграм-бот мед-клиники. Личный кабинет пациента, учет посещений и оплат, коммуникация с сотрудниками, парсинг в БД [Код](https://github.com/cozyfootball/cozyfamily/blob/main/stom_clinic.py)| aiogram, sqlite
 |  [Староста](https://t.me/ds_55) | Телеграм-бот. Староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  aiogram, sqlite, pandas, matplotlib|
 | [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf) | Страховой продукт по риску потери работы| PowerPoint|
 |  [Оценка рисков](https://github.com/cozyfootball/cozyfootball/blob/main/risks.pdf) | Методика по оценке рисков| Word|
