@@ -2,11 +2,10 @@
   <img width="500" height="500" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo1.jpg">
 </p>
 <h3 align="left">Hello World! Меня зовут Яша:bowtie:  
+Лучший Data Researcher в своём сегменте:chart_with_downwards_trend:</h3>
+<h4 align="left">Люблю, умею, практикую:  
   
-:top:Data Researcher в своем сегменте:chart_with_downwards_trend:</h3>
-<h4 align="left">Умею и продолжаю развиваться в:  
-  
-- анализ данных  
+- исследование и анализ данных 
   
 - машинное обучение  
   
