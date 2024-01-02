@@ -1,8 +1,8 @@
 <p align="center">
   <img width="500" height="500" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo1.jpg">
 </p>
-<h3 align="left">Hello World! Меня зовут Яша:bowtie:  
-Лучший Data Researcher в своём сегменте:chart_with_downwards_trend:</h3>
+<h3 align="left">Hello World! Меня зовут Яша   
+</h3>
 <h4 align="left">Люблю, умею, практикую:  
   
 - исследование и анализ данных 
@@ -13,7 +13,7 @@
 
 <h3 align="left"> Pet-проекты:</h3>
 
-- [Лига уютного футбола](https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига из Москвы
+- [Лига уютного футбола](https://www.youtube.com/channel/UCoj8xxoH4A8fvUdU7JQAc8Q) - уникальная любительская мини-футбольная лига
 - [CozyFamily](https://t.me/cozyfamily) - мастерская по разработке телеграм-ботов
 
   
