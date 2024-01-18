@@ -65,11 +65,6 @@
 |  [Cozyfootball](https://t.me/CozyFutbot) |  Телеграм-бот. Управляющий директор футбольной лиги|  aiogram, postgresql, pandas, matplotlib|
 | [Стоматология](https://t.me/drvarbot)| Телеграм-бот мед-клиники. Личный кабинет пациента, учет посещений и оплат, коммуникация с сотрудниками, парсинг в БД [Код](https://github.com/cozyfootball/cozyfamily/blob/main/stom_clinic.py)| aiogram, sqlite, pandas
 |  [Староста](https://t.me/ds_55) | Телеграм-бот. Староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  aiogram, sqlite, pandas, matplotlib|
-| [Продукт](https://github.com/cozyfootball/cozyfootball/blob/main/job_insure.pdf) | Страховой продукт по риску потери работы| PowerPoint|
-|  [Оценка рисков](https://github.com/cozyfootball/cozyfootball/blob/main/risks.pdf) | Методика по оценке рисков| Word|
-|  [Методика](https://github.com/cozyfootball/cozyfootball/blob/main/property_manual.pdf) | Методика определения типа строения| Word|
-|  [Инструкция](https://github.com/cozyfootball/cozyfootball/blob/main/calc.pdf) | Инструкция по работе с калькулятором| Word|
-|  [Калькулятор](https://github.com/cozyfootball/cozyfootball/blob/main/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82.xlsm) | Автоматизация процесса принятия на страхование|  Excel|
 ***
 
 
