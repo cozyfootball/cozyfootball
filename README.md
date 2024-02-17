@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="500" height="500" src="https://github.com/cozyfootball/cozyfootball/blob/main/Logo.jpg">
+  <img width="500" height="500" src="https://images.squarespace-cdn.com/content/v1/5cf6c4ed5171fc0001b43190/1611069608878-TJ33SH2M09MDAVXJ2Y7Y/data+engineers.png">
 </p>
 <h3 align="left">Hello World! Меня зовут Яша   
 </h3>
 <h4 align="left">Люблю, умею, практикую:  
   
 - исследование и анализ данных 
-  
+  h
 - машинное обучение  
   
 - разработка телеграм ботов</h4>
