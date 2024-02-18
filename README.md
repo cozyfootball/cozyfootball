@@ -1,15 +1,21 @@
 <p align="center">
   <img width="500" height="500" src="https://images.squarespace-cdn.com/content/v1/5cf6c4ed5171fc0001b43190/1611069608878-TJ33SH2M09MDAVXJ2Y7Y/data+engineers.png">
 </p>
-<h3 align="left">Hello World! Меня зовут Яша   
+<h3 align="left">Hello Community :rage1:
 </h3>
-<h4 align="left">Люблю, умею, практикую:  
+<h4 align="left"> Меня зовут - Яша :octocat:    
   
-- исследование и анализ данных 
-  h
-- машинное обучение  
+  Более 10 лет я занимаюсь исследованием данных :telescope:
+ </h4>
+
+<h4 align="left"> 
+  Мои основные компетенции: 
   
-- разработка телеграм ботов</h4>
+   📤 data analytics  
+   🔬 data science  
+   💣 machine learning  
+   🐛 python dev  
+ </h4>
 
 <h3 align="left"> Pet-проекты:</h3>
 
