@@ -55,7 +55,6 @@
 | [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Иследовательский анализ истории рынка видеоигр для приставок и портативных устройств  |   pandas, seaborn, matplotlib |
 | [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb)  | Исследовательнский анализ рынка недвижимости СПБ и Ленинградской области        |    pandas, seaborn, matplotlib |
 | [Медицинские услуги](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/forML.ipynb)| Изучение тенденций ценообразования медицинской клиники       |    pandas, matplotlib |
-| [Банкострахование](https://github.com/cozyfootball/cozyfootball/blob/main/product_research.pdf) |  Исследование страхового восприятия сотрудников банка и их кредитных клиентов       |    PowerPoint |
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Прогноз оттока абонентов клиентов телеком компании | phik, sklearn, catboost|
 | [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Прогноз дефолта клиентов банка| sklearn, catboost|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Прогноз оттока клиентов банка| sklearn, catboost, imblearn|
