@@ -50,6 +50,7 @@
 
 | Проект       | Описание                | Стек |
 | ------------- |:------------------:| -----:|
+|  [ЯКартинки](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/yandex_images.ipynb) Тестовое задание для аналитической секции Яндекс | pandas, seaborn, matplotlib |
 | [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)     | Иследовательский анализ клиентского портфеля банка    | pandas, seaborn, matplotlib |
 | [Лига Чемпионов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb)| Сегментированное изучение статистики розыгрыша футбольной лиги чемпионов  2021 - 2022       |    pandas |
 | [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Иследовательский анализ истории рынка видеоигр для приставок и портативных устройств  |   pandas, seaborn, matplotlib |
@@ -64,7 +65,6 @@
 |  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Определение рыночной стоимости автомобиля| sklearn, catboost|
 |  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Прогноз месторождений| sklearn, catboost, scipy|
 |  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Рекомендация перехода на новый тариф|sklearn, catboost|
-|  [NLP](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/nlp.ipynb)| Изучение тональности текста| sklearn, nltk|
 |  [CV](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/cv.ipynb)| Определение возраста по фото| keras, tensorflow|
 | [Вадимка](https://t.me/stopalfa_bot)| Телеграм-бот. Помощь в возвратe денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| aiogram, sqlite|
 |  [Cozyfootball](https://t.me/CozyFutbot) |  Телеграм-бот. Управляющий директор футбольной лиги|  aiogram, postgresql, pandas, matplotlib|
