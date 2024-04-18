@@ -48,9 +48,12 @@
 
 <h3 align="center">Мои проекты</h3>
 
+
+
+
 | Проект       | Описание                | Стек |
-| ------------- |:------------------:| -----:|
-|  [ЯКартинки](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/yandex_images.ipynb) | Тестовое задание для аналитической секции Яндекс | pandas, seaborn, matplotlib |
+| [Финтех](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/test_task_amoney.ipynb)  | Тестовое задание | pandas, seaborn, matplotlib|
+|  [ЯКартинки](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/yandex_images.ipynb) | Тестовое задание аналитической секции/этапа | pandas, seaborn, matplotlib |
 | [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)     | Иследовательский анализ клиентского портфеля банка    | pandas, seaborn, matplotlib |
 | [Лига Чемпионов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb)| Сегментированное изучение статистики розыгрыша футбольной лиги чемпионов  2021 - 2022       |    pandas |
 | [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Иследовательский анализ истории рынка видеоигр для приставок и портативных устройств  |   pandas, seaborn, matplotlib |
