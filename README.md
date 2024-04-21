@@ -52,27 +52,28 @@
 
 
 | Проект       | Описание                | Стек |
-| [Финтех](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/test_task_amoney.ipynb)  | Тестовое задание | pandas, seaborn, matplotlib|
-|  [ЯКартинки](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/yandex_images.ipynb) | Тестовое задание аналитической секции/этапа | pandas, seaborn, matplotlib |
-| [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)     | Иследовательский анализ клиентского портфеля банка    | pandas, seaborn, matplotlib |
-| [Лига Чемпионов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb)| Сегментированное изучение статистики розыгрыша футбольной лиги чемпионов  2021 - 2022       |    pandas |
-| [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)| Иследовательский анализ истории рынка видеоигр для приставок и портативных устройств  |   pandas, seaborn, matplotlib |
-| [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb)  | Исследовательнский анализ рынка недвижимости СПБ и Ленинградской области        |    pandas, seaborn, matplotlib |
-| [Медицинские услуги](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/forML.ipynb)| Изучение тенденций ценообразования медицинской клиники       |    pandas, matplotlib |
+|----------|----------|----------|
+| [Финтех](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/test_task_amoney.ipynb)| Тестовое задание на аналитика| pandas, seaborn, matplotlib|
+| [ЯКартинки](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/yandex_images.ipynb)| Тестовое задание аналитической секции | pandas, seaborn, matplotlib|
+| [Медицинские услуги](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/forML.ipynb)| Тестовое задание в медицинскую страховую компанию     |    pandas, matplotlib|
+| [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Иследовательский анализ клиентского портфеля банка    | pandas, seaborn, matplotlib|
+| [Лига Чемпионов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/UCL.ipynb)|Сегментированное изучение статистики розыгрыша футбольной лиги чемпионов  2021 - 2022       |    pandas|
+| [Видеоигры](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/videogames.ipynb)|Иследовательский анализ истории рынка видеоигр для приставок и портативных устройств  |   pandas, seaborn, matplotlib|
+| [Недвижимость](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/estate.ipynb)|Исследовательнский анализ рынка недвижимости СПБ и Ленинградской области        |    pandas, seaborn, matplotlib|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/final_di.ipynb)| Прогноз оттока абонентов клиентов телеком компании | phik, sklearn, catboost|
 | [Должники](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Прогноз дефолта клиентов банка| sklearn, catboost|
 | [Отток клиентов](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banks_clients_aways.ipynb)| Прогноз оттока клиентов банка| sklearn, catboost, imblearn|
 | [Страхование](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/matrix.ipynb)| Прогноз страховых убытков по договору | sklearn|
-|  [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Прогноз заказов такси | sklearn, catboost|
-|  [Золото](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Прогноз добычи золота из руды| sklearn, catboost|
-|  [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Определение рыночной стоимости автомобиля| sklearn, catboost|
-|  [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Прогноз месторождений| sklearn, catboost, scipy|
-|  [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Рекомендация перехода на новый тариф|sklearn, catboost|
-|  [CV](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/cv.ipynb)| Определение возраста по фото| keras, tensorflow|
+| [Временные ряды](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/times_series.ipynb)| Прогноз заказов такси | sklearn, catboost|
+| [Золото](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/gold_mining.ipynb)| Прогноз добычи золота из руды| sklearn, catboost|
+| [Стоимость авто](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/car_price.ipynb)| Определение рыночной стоимости автомобиля| sklearn, catboost|
+| [Нефтянные скважины](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/oil_holes.ipynb)| Прогноз месторождений| sklearn, catboost, scipy|
+| [Телеком](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/telekom_ottok.ipynb)| Рекомендация перехода на новый тариф|sklearn, catboost|
+| [CV](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/cv.ipynb)| Определение возраста по фото| keras, tensorflow|
 | [Вадимка](https://t.me/stopalfa_bot)| Телеграм-бот. Помощь в возвратe денег за страховку [Код](https://github.com/cozyfootball/cozyfamily/commit/30246d8a8de928df024c729e3b884fa18fe8198b)| aiogram, sqlite|
-|  [Cozyfootball](https://t.me/CozyFutbot) |  Телеграм-бот. Управляющий директор футбольной лиги|  aiogram, postgresql, pandas, matplotlib|
-| [Стоматология](https://t.me/drvarbot)| Телеграм-бот мед-клиники. Личный кабинет пациента, учет посещений и оплат, коммуникация с сотрудниками, парсинг в БД [Код](https://github.com/cozyfootball/cozyfamily/blob/main/stom_clinic.py)| aiogram, sqlite, pandas
-|  [Староста](https://t.me/ds_55) | Телеграм-бот. Староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  aiogram, sqlite, pandas, matplotlib|
+| [Cozyfootball](https://t.me/CozyFutbot) |  Телеграм-бот. Управляющий директор футбольной лиги|  aiogram, postgresql, pandas, matplotlib|
+| [Стоматология](https://t.me/drvarbot)| Телеграм-бот мед-клиники. Личный кабинет пациента, учет посещений и оплат, коммуникация с сотрудниками, парсинг в БД [Код](https://github.com/cozyfootball/cozyfamily/blob/main/stom_clinic.py)| aiogram, sqlite, pandas|
+| [Староста](https://t.me/ds_55) | Телеграм-бот. Староста учебного курса в Яндекс Практикуме [Код](https://github.com/cozyfootball/ds_55/blob/main/ds_55.py) |  aiogram, sqlite, pandas, matplotlib|
 ***
 
 
