@@ -53,7 +53,6 @@
 
 | Проект       | Описание                | Стек |
 |----------|----------|----------|
-| [Финтех](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/test_task_amoney.ipynb)| Тестовое задание| pandas, seaborn, matplotlib|
 | [ЯКартинки](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/yandex_images.ipynb)| Тестовое задание аналитической секции | pandas, seaborn, matplotlib|
 | [Медицинские услуги](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/forML.ipynb)| Тестовое задание в медицинскую страховую компанию     |    pandas, matplotlib|
 | [Кредитный портфель](https://nbviewer.org/github/cozyfootball/cozyfootball/blob/main/banking_debt.ipynb)| Иследовательский анализ клиентского портфеля банка    | pandas, seaborn, matplotlib|
